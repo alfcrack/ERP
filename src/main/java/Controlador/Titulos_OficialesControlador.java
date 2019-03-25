@@ -1,6 +1,6 @@
 package Controlador;
 
-
+import org.springframework.http.MediaType;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -12,7 +12,9 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.multipart.MultipartFile;
 
 import Clases.Candidatos;
 import Clases.Titulos_oficiales;
@@ -39,7 +41,6 @@ public class Titulos_OficialesControlador {
 			Titulos_oficiales tit=new Titulos_oficiales();
 			tit.setCandidatos(can);
 			tit.setCentro(titulos_oficiales.getCentro());
-			tit.setDocumento(titulos_oficiales.getDocumento());
 			tit.setFecha_obtencion(titulos_oficiales.getFecha_obtencion());
 			tit.setNivel_Educativo(titulos_oficiales.getNivel_Educativo());
 			tit.setNombre(titulos_oficiales.getNombre());
@@ -52,6 +53,19 @@ public class Titulos_OficialesControlador {
 		return null;
 	}
 	
+	@PostMapping(path="/addImg" , produces=MediaType.IMAGE_JPEG_VALUE)
+	public @ResponseBody Object addImg(@RequestParam (name="img")MultipartFile file,
+			@RequestParam(name="id") Integer id) {
+		try {
+			Titulos_oficiales titOfi=titulos_OficialesRepository.findById(id).get();
+			titOfi.setDocumento(file.getBytes());
+			titulos_OficialesRepository.save(titOfi);
+			return titOfi.getDocumento();
+		}catch (Exception e) {
+			logger.error(e.getMessage());
+		}
+		return null;
+	}
 	@GetMapping(path="/read")
 	public @ResponseBody Iterable<Titulos_oficiales>add(){
 		return titulos_OficialesRepository.findAll();
@@ -66,9 +80,19 @@ public class Titulos_OficialesControlador {
 		}
 		return null;
 	}
+	@GetMapping(path="/readImg/{Id}", produces=MediaType.IMAGE_JPEG_VALUE)
+	public @ResponseBody Object readImgId(@PathVariable(name="Id")Integer id) {
+		try {
+		Titulos_oficiales ti=titulos_OficialesRepository.findById(id).get();
+		return ti.getDocumento();
+		}catch (Exception e) {
+			logger.error(e.getMessage());
+		}
+		return null;
+	}
 	
 	@DeleteMapping(path="/supr/{Id}")
-	public String suprId(@PathVariable(name="Id")Integer id) {
+	public @ResponseBody String suprId(@PathVariable(name="Id")Integer id) {
 		try {
 			titulos_OficialesRepository.deleteById(id);
 			logger.info("Titulo Oficial Borrado");

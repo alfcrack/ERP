@@ -65,7 +65,7 @@ public class Otras_TitulacionesControlador {
 	}
 	
 	@DeleteMapping(path="/supr/{Id}")
-	public String suprId(@PathVariable(name="Id")Integer id) {
+	public @ResponseBody String suprId(@PathVariable(name="Id")Integer id) {
 		try {
 			 otras_TitulacionesRepository.deleteById(id);
 			 logger.info("Otras Titulaciones borrada");

@@ -57,7 +57,7 @@ public class TecnologiasControlador {
 	}
 	
 	@DeleteMapping(path="/supr/{Id}")
-	public String suprId(@PathVariable(name="Id")Integer id) {
+	public @ResponseBody String suprId(@PathVariable(name="Id")Integer id) {
 		try {
 			tecnologiasrepository.deleteById(id);
 			 return "Datos Borrados";

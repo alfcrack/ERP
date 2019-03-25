@@ -71,7 +71,7 @@ public class Experiencia_LaboralControlador {
 	}
 	
 	@DeleteMapping(path="/supr/{Id}")
-	public String suprId(@PathVariable(name="Id")Integer id) {
+	public @ResponseBody String suprId(@PathVariable(name="Id")Integer id) {
 		try {
 			experiencia_LaboralRepository.deleteById(id);
 			logger.info("Experiencia_Laboral borrada");

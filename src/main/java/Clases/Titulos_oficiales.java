@@ -1,9 +1,8 @@
 package Clases;
 
-import java.net.URI;
-import java.sql.Blob;
 import java.sql.Date;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -14,6 +13,7 @@ import javax.persistence.ManyToOne;
 
 import org.springframework.lang.NonNull;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
@@ -31,8 +31,8 @@ public class Titulos_oficiales {
 	
 	@NonNull
 	private Date fecha_obtencion;
-	
-	private URI documento;
+	@Column(length=1622222)
+	private byte[] documento;
 	
 	private String Nivel_Educativo;
 	
@@ -73,12 +73,12 @@ public class Titulos_oficiales {
 	public void setFecha_obtencion(Date fecha_obtencion) {
 		this.fecha_obtencion = fecha_obtencion;
 	}
-
-	public URI getDocumento() {
+	@JsonIgnore
+	public byte[] getDocumento() {
 		return documento;
 	}
 
-	public void setDocumento(URI documento) {
+	public void setDocumento(byte[] documento) {
 		this.documento = documento;
 	}
 
