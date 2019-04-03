@@ -2,6 +2,7 @@ package Clases;
 
 import java.sql.Date;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -30,7 +31,8 @@ public class Otras_Titulaciones {
 	
 	@NonNull
 	private Date fecha_obtencion;
-	
+	@JsonIgnore	
+	@Column(length=1622222)
 	private byte[] documento;
 	
 

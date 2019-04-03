@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -29,7 +30,7 @@ public class Experiencia_LaboralControlador {
 	@Autowired
 	private CandidatosRepository candidatosrepository;
 	
-	
+	@CrossOrigin
 	@PostMapping(path="/add/{canId}")
 	public @ResponseBody Experiencia_Laboral addExp(@RequestBody Experiencia_Laboral experiencia_Laboral,
 			@PathVariable (name="canId")Integer canId) {
@@ -53,12 +54,12 @@ public class Experiencia_LaboralControlador {
 		}
 		return null;
 	}
-	
+	@CrossOrigin
 	@GetMapping(path="/read")
 	public @ResponseBody Iterable<Experiencia_Laboral> readA() {
 		return experiencia_LaboralRepository.findAll();
 	}
-
+	@CrossOrigin
 	@GetMapping(path="read/{expId}")
 	public @ResponseBody Experiencia_Laboral readId(@PathVariable(name="expId")Integer id) {
 		try {
@@ -69,7 +70,7 @@ public class Experiencia_LaboralControlador {
 		return null;
 		
 	}
-	
+	@CrossOrigin
 	@DeleteMapping(path="/supr/{Id}")
 	public @ResponseBody String suprId(@PathVariable(name="Id")Integer id) {
 		try {

@@ -11,3 +11,385 @@
 [INFO ] 2019-03-25 09:19:14.580 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
 [INFO ] 2019-03-25 09:19:27.325 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial Borrado
 [INFO ] 2019-03-25 09:19:45.077 [http-nio-8080-exec-7] CandidatosControlador - Candidato borrado
+[ERROR] 2019-03-25 09:41:14.857 [http-nio-8080-exec-2] CandidatosControlador - No class Clases.Candidatos entity with id 1 exists!
+[INFO ] 2019-03-25 10:17:34.286 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 10:17:52.834 [http-nio-8080-exec-3] CandidatosControlador - Candidato borrado
+[ERROR] 2019-03-25 10:22:54.758 [http-nio-8080-exec-2] CandidatosControlador - No class Clases.Candidatos entity with id 1 exists!
+[INFO ] 2019-03-25 10:24:33.536 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 10:24:36.845 [http-nio-8080-exec-6] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-25 10:25:00.006 [http-nio-8080-exec-7] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 10:25:06.888 [http-nio-8080-exec-8] CandidatosControlador - Tecnologia guardada
+[ERROR] 2019-03-25 10:26:18.565 [http-nio-8080-exec-1] CandidatosControlador - No value present
+[INFO ] 2019-03-25 10:26:26.305 [http-nio-8080-exec-2] CandidatosControlador - Tecnologia guardada
+[ERROR] 2019-03-25 10:26:28.037 [http-nio-8080-exec-3] CandidatosControlador - No value present
+[ERROR] 2019-03-25 10:26:50.136 [http-nio-8080-exec-4] CandidatosControlador - No value present
+[ERROR] 2019-03-25 10:26:56.926 [http-nio-8080-exec-5] CandidatosControlador - No value present
+[INFO ] 2019-03-25 10:27:16.074 [http-nio-8080-exec-7] CandidatosControlador - Candidato_Tecnologia guardado
+[INFO ] 2019-03-25 10:27:59.757 [http-nio-8080-exec-9] CandidatosControlador - Candidato_Tecnologia borrado
+[ERROR] 2019-03-25 10:28:29.658 [http-nio-8080-exec-10] CandidatosControlador - No value present
+[INFO ] 2019-03-25 10:28:33.874 [http-nio-8080-exec-1] CandidatosControlador - Experiencia_Laboral guardada
+[INFO ] 2019-03-25 10:29:11.320 [http-nio-8080-exec-3] CandidatosControlador - Experiencia_Laboral borrada
+[INFO ] 2019-03-25 10:29:43.878 [http-nio-8080-exec-4] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 10:30:09.259 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-03-25 10:30:28.607 [http-nio-8080-exec-7] CandidatosControlador - Otras Titulaciones Guardadas
+[INFO ] 2019-03-25 10:30:55.373 [http-nio-8080-exec-9] CandidatosControlador - Otras Titulaciones borrada
+[INFO ] 2019-03-25 10:58:59.368 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 10:59:11.358 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-03-25 11:01:00.335 [http-nio-8080-exec-7] CandidatosControlador - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+[ERROR] 2019-03-25 11:02:44.752 [http-nio-8080-exec-2] CandidatosControlador - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+[ERROR] 2019-03-25 11:04:09.492 [http-nio-8080-exec-2] CandidatosControlador - No value present
+[INFO ] 2019-03-25 11:04:15.906 [http-nio-8080-exec-3] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:04:18.644 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:12:42.230 [http-nio-8080-exec-4] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:13:47.432 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:13:49.180 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:14:54.848 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:14:56.656 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:16:10.348 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:16:12.240 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:16:15.404 [http-nio-8080-exec-4] CandidatosControlador - [B@3773d84
+[INFO ] 2019-03-25 11:17:30.936 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:17:33.064 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:39:46.404 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:39:49.594 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-03-25 11:41:19.652 [http-nio-8080-exec-1] CandidatosControlador - No value present
+[INFO ] 2019-03-25 11:41:26.144 [http-nio-8080-exec-3] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:41:28.624 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:42:40.634 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:42:43.750 [http-nio-8080-exec-2] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:44:15.289 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:44:17.490 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:44:56.656 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 11:44:58.558 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 11:48:40.219 [http-nio-8080-exec-8] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-25 12:47:21.205 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 12:47:24.882 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-03-25 12:47:32.967 [http-nio-8080-exec-6] CandidatosControlador - No value present
+[ERROR] 2019-03-25 12:47:50.138 [http-nio-8080-exec-8] CandidatosControlador - null
+[ERROR] 2019-03-25 12:47:52.354 [http-nio-8080-exec-10] CandidatosControlador - null
+[INFO ] 2019-03-25 14:19:46.439 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-25 14:19:48.272 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-03-25 14:19:50.745 [http-nio-8080-exec-4] CandidatosControlador - No value present
+[INFO ] 2019-03-26 13:42:32.932 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-26 16:48:27.017 [http-nio-8080-exec-3] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-26 17:13:29.684 [http-nio-8080-exec-5] CandidatosControlador - Tecnologia guardada
+[INFO ] 2019-03-26 17:16:10.531 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-27 09:16:58.516 [http-nio-8080-exec-8] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-27 09:38:52.659 [http-nio-8080-exec-10] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-27 17:03:17.145 [http-nio-8080-exec-5] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-27 17:15:31.530 [http-nio-8080-exec-10] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 08:31:59.712 [http-nio-8080-exec-2] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 08:33:05.396 [http-nio-8080-exec-4] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 08:33:45.718 [http-nio-8080-exec-4] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 08:34:28.284 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 08:35:40.157 [http-nio-8080-exec-10] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 08:35:49.189 [http-nio-8080-exec-3] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 08:37:26.771 [http-nio-8080-exec-10] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 08:37:59.888 [http-nio-8080-exec-3] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 08:38:14.032 [http-nio-8080-exec-7] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 08:47:03.860 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 08:58:33.088 [http-nio-8080-exec-5] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:08:56.465 [http-nio-8080-exec-2] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:14:38.358 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 09:14:53.461 [http-nio-8080-exec-8] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:16:09.742 [http-nio-8080-exec-2] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:17:56.323 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:19:57.513 [http-nio-8080-exec-2] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:26:46.301 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:27:40.743 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:28:23.928 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:31:04.161 [http-nio-8080-exec-2] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:32:53.479 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:33:15.374 [http-nio-8080-exec-2] CandidatosControlador - Candidato borrado
+[ERROR] 2019-03-29 09:35:16.040 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-03-29 09:35:34.284 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-03-29 09:36:09.600 [http-nio-8080-exec-1] CandidatosControlador - null
+[INFO ] 2019-03-29 09:37:44.984 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:38:39.840 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:39:48.336 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:40:42.324 [http-nio-8080-exec-6] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 09:40:49.463 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:42:52.101 [http-nio-8080-exec-1] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-29 09:42:56.849 [http-nio-8080-exec-3] CandidatosControlador - Candidato guardado
+[ERROR] 2019-03-29 09:43:09.671 [http-nio-8080-exec-8] CandidatosControlador - null
+[INFO ] 2019-03-29 09:43:17.789 [http-nio-8080-exec-9] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 09:45:05.388 [http-nio-8080-exec-9] CandidatosControlador - Candidato borrado
+[INFO ] 2019-03-29 10:04:29.093 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 10:04:48.155 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-03-29 12:54:21.023 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-03-29 12:54:32.499 [http-nio-8080-exec-5] CandidatosControlador - Candidato borrado
+[ERROR] 2019-04-01 08:24:44.756 [http-nio-8080-exec-8] CandidatosControlador - Validation failed for classes [Clases.Candidatos] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='el tamaño tiene que estar entre 0 y 9', propertyPath=DNI, rootBeanClass=class Clases.Candidatos, messageTemplate='{javax.validation.constraints.Size.message}'}
+]
+[INFO ] 2019-04-01 08:25:19.012 [http-nio-8080-exec-10] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 08:42:23.916 [http-nio-8080-exec-9] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 08:51:43.188 [http-nio-8080-exec-6] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 08:53:27.467 [http-nio-8080-exec-10] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 08:55:52.593 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 08:56:06.965 [http-nio-8080-exec-7] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:03:39.850 [http-nio-8080-exec-3] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:03:51.865 [http-nio-8080-exec-9] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:14:55.032 [http-nio-8080-exec-6] CandidatosControlador - Candidato guardado
+[ERROR] 2019-04-01 09:25:57.052 [http-nio-8080-exec-4] CandidatosControlador - could not execute statement; SQL [n/a]; constraint [UK_rb16636ushlle15t5dscuenxv]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[ERROR] 2019-04-01 09:26:34.796 [http-nio-8080-exec-10] CandidatosControlador - could not execute statement; SQL [n/a]; constraint [UK_rb16636ushlle15t5dscuenxv]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[INFO ] 2019-04-01 09:26:58.610 [http-nio-8080-exec-6] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:27:39.499 [http-nio-8080-exec-3] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:27:53.354 [http-nio-8080-exec-9] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:28:42.954 [http-nio-8080-exec-10] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:29:44.372 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:30:07.470 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:30:14.853 [http-nio-8080-exec-10] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:33:28.665 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:33:39.517 [http-nio-8080-exec-4] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:39:00.863 [http-nio-8080-exec-7] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:39:13.039 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:39:20.026 [http-nio-8080-exec-4] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:39:25.543 [http-nio-8080-exec-8] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:40:05.161 [http-nio-8080-exec-7] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:40:16.194 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:40:48.513 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:40:57.616 [http-nio-8080-exec-7] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:41:03.172 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:41:12.924 [http-nio-8080-exec-4] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:41:46.042 [http-nio-8080-exec-8] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:41:55.600 [http-nio-8080-exec-6] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:43:21.428 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:43:32.475 [http-nio-8080-exec-10] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:44:47.275 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:45:14.016 [http-nio-8080-exec-4] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:45:16.962 [http-nio-8080-exec-9] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:45:25.302 [http-nio-8080-exec-7] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:49:30.050 [http-nio-8080-exec-9] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:49:39.148 [http-nio-8080-exec-7] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:49:44.518 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:50:09.403 [http-nio-8080-exec-9] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:52:54.224 [http-nio-8080-exec-6] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:53:03.581 [http-nio-8080-exec-3] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:56:13.965 [http-nio-8080-exec-8] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 09:56:20.192 [http-nio-8080-exec-6] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 09:57:15.115 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[ERROR] 2019-04-01 09:57:27.596 [http-nio-8080-exec-3] CandidatosControlador - could not execute statement; SQL [n/a]; constraint [UK_rb16636ushlle15t5dscuenxv]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[INFO ] 2019-04-01 09:57:37.829 [http-nio-8080-exec-8] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 10:16:19.442 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 10:16:26.596 [http-nio-8080-exec-5] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 10:17:59.012 [http-nio-8080-exec-7] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 10:18:06.978 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 10:21:35.929 [http-nio-8080-exec-6] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 10:21:45.388 [http-nio-8080-exec-3] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 10:22:07.102 [http-nio-8080-exec-9] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 10:22:16.466 [http-nio-8080-exec-7] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 10:24:03.616 [http-nio-8080-exec-1] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 10:24:53.864 [http-nio-8080-exec-5] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 10:24:57.885 [http-nio-8080-exec-8] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-01 10:26:58.958 [http-nio-8080-exec-3] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-01 13:39:30.753 [http-nio-8080-exec-2] CandidatosControlador - Otras Titulaciones Guardadas
+[ERROR] 2019-04-01 13:46:02.700 [http-nio-8080-exec-3] CandidatosControlador - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+[ERROR] 2019-04-01 13:48:06.313 [http-nio-8080-exec-7] CandidatosControlador - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+[ERROR] 2019-04-01 13:48:24.362 [http-nio-8080-exec-6] CandidatosControlador - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+[ERROR] 2019-04-01 13:51:00.707 [http-nio-8080-exec-3] CandidatosControlador - null
+[INFO ] 2019-04-01 14:01:08.483 [http-nio-8080-exec-10] CandidatosControlador - Otras Titulaciones borrada
+[INFO ] 2019-04-01 14:02:49.019 [http-nio-8080-exec-8] CandidatosControlador - Experiencia_Laboral borrada
+[INFO ] 2019-04-01 14:06:12.785 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-01 14:10:53.532 [http-nio-8080-exec-2] CandidatosControlador - Tecnologia guardada
+[INFO ] 2019-04-01 14:12:42.521 [http-nio-8080-exec-2] CandidatosControlador - Candidato_Tecnologia borrado
+[INFO ] 2019-04-01 15:53:05.827 [http-nio-8080-exec-7] CandidatosControlador - Experiencia_Laboral guardada
+[INFO ] 2019-04-01 15:53:21.687 [http-nio-8080-exec-9] CandidatosControlador - Experiencia_Laboral borrada
+[INFO ] 2019-04-01 15:56:07.180 [http-nio-8080-exec-8] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-04-01 15:56:27.840 [http-nio-8080-exec-3] CandidatosControlador - Otras Titulaciones Guardadas
+[ERROR] 2019-04-01 15:56:33.188 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-04-01 15:56:54.723 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-01 15:57:25.064 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-01 15:57:38.149 [http-nio-8080-exec-9] CandidatosControlador - null
+[ERROR] 2019-04-01 15:57:50.679 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-01 15:58:15.066 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-01 15:58:57.108 [http-nio-8080-exec-6] CandidatosControlador - null
+[ERROR] 2019-04-01 15:59:36.689 [http-nio-8080-exec-8] CandidatosControlador - null
+[ERROR] 2019-04-01 15:59:55.563 [http-nio-8080-exec-9] CandidatosControlador - null
+[ERROR] 2019-04-01 16:01:20.807 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-01 16:02:36.448 [http-nio-8080-exec-8] CandidatosControlador - null
+[ERROR] 2019-04-02 08:12:44.148 [http-nio-8080-exec-4] CandidatosControlador - null
+[INFO ] 2019-04-02 08:36:59.285 [http-nio-8080-exec-2] CandidatosControlador - Tecnologia guardada
+[INFO ] 2019-04-02 08:57:43.615 [http-nio-8080-exec-2] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-02 08:57:50.500 [http-nio-8080-exec-5] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-02 09:00:53.153 [http-nio-8080-exec-1] CandidatosControlador - Candidato_Tecnologia guardado
+[ERROR] 2019-04-02 09:52:27.882 [http-nio-8080-exec-2] CandidatosControlador - null
+[INFO ] 2019-04-02 09:54:52.396 [http-nio-8080-exec-8] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-02 10:24:15.343 [http-nio-8080-exec-2] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:25:20.261 [http-nio-8080-exec-6] CandidatosControlador - null
+[INFO ] 2019-04-02 10:25:49.091 [http-nio-8080-exec-7] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:27:02.490 [http-nio-8080-exec-1] CandidatosControlador - null
+[INFO ] 2019-04-02 10:27:17.914 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:27:55.189 [http-nio-8080-exec-6] CandidatosControlador - null
+[ERROR] 2019-04-02 10:27:55.195 [http-nio-8080-exec-7] CandidatosControlador - null
+[INFO ] 2019-04-02 10:28:18.144 [http-nio-8080-exec-8] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:30:49.269 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-02 10:30:49.270 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-02 10:30:49.292 [http-nio-8080-exec-6] CandidatosControlador - null
+[ERROR] 2019-04-02 10:31:38.342 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-02 10:31:38.374 [http-nio-8080-exec-10] CandidatosControlador - null
+[ERROR] 2019-04-02 10:31:38.375 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-04-02 10:32:59.592 [http-nio-8080-exec-10] CandidatosControlador - null
+[ERROR] 2019-04-02 10:32:59.611 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-02 10:32:59.620 [http-nio-8080-exec-1] CandidatosControlador - null
+[INFO ] 2019-04-02 10:33:27.024 [http-nio-8080-exec-4] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-04-02 10:33:39.586 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:36:14.449 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-02 10:36:14.450 [http-nio-8080-exec-3] CandidatosControlador - null
+[INFO ] 2019-04-02 10:36:18.827 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-02 10:36:23.402 [http-nio-8080-exec-10] CandidatosControlador - null
+[INFO ] 2019-04-02 10:36:26.879 [http-nio-8080-exec-1] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 10:36:47.989 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:37:38.020 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-02 10:40:36.152 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-02 10:40:45.587 [http-nio-8080-exec-8] CandidatosControlador - null
+[ERROR] 2019-04-02 10:40:55.647 [http-nio-8080-exec-10] CandidatosControlador - null
+[INFO ] 2019-04-02 10:40:58.584 [http-nio-8080-exec-2] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 10:41:22.842 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:41:32.607 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-04-02 10:43:35.916 [http-nio-8080-exec-3] CandidatosControlador - null
+[INFO ] 2019-04-02 10:43:39.610 [http-nio-8080-exec-4] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 10:44:14.582 [http-nio-8080-exec-7] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:47:25.943 [http-nio-8080-exec-5] CandidatosControlador - null
+[INFO ] 2019-04-02 10:47:39.650 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-04-02 10:54:09.539 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 10:57:38.405 [http-nio-8080-exec-4] CandidatosControlador - null
+[INFO ] 2019-04-02 10:57:45.762 [http-nio-8080-exec-7] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 10:58:10.343 [http-nio-8080-exec-2] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 11:03:03.081 [http-nio-8080-exec-7] CandidatosControlador - null
+[INFO ] 2019-04-02 11:03:20.749 [http-nio-8080-exec-10] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 11:03:40.853 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 11:05:58.238 [http-nio-8080-exec-9] CandidatosControlador - null
+[INFO ] 2019-04-02 11:25:15.719 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 11:27:06.911 [http-nio-8080-exec-10] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 11:31:06.995 [http-nio-8080-exec-6] CandidatosControlador - null
+[INFO ] 2019-04-02 11:31:28.914 [http-nio-8080-exec-7] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 11:32:15.042 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-02 11:32:15.055 [http-nio-8080-exec-3] CandidatosControlador - null
+[INFO ] 2019-04-02 11:32:24.744 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-02 11:32:28.170 [http-nio-8080-exec-9] CandidatosControlador - null
+[INFO ] 2019-04-02 11:32:35.151 [http-nio-8080-exec-2] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 11:45:19.703 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 11:50:35.997 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-04-02 11:51:16.366 [http-nio-8080-exec-7] CandidatosControlador - null
+[INFO ] 2019-04-02 11:51:28.009 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 11:51:38.933 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-02 11:51:38.942 [http-nio-8080-exec-5] CandidatosControlador - null
+[INFO ] 2019-04-02 11:51:43.233 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-02 11:51:46.996 [http-nio-8080-exec-6] CandidatosControlador - null
+[INFO ] 2019-04-02 11:51:50.190 [http-nio-8080-exec-9] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 11:58:01.300 [http-nio-8080-exec-4] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-04-02 12:33:36.520 [http-nio-8080-exec-4] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 12:33:56.192 [http-nio-8080-exec-2] CandidatosControlador - null
+[INFO ] 2019-04-02 12:34:00.770 [http-nio-8080-exec-1] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 12:47:31.215 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 12:50:23.887 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-02 12:50:46.807 [http-nio-8080-exec-3] CandidatosControlador - null
+[INFO ] 2019-04-02 13:03:40.261 [http-nio-8080-exec-9] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 13:07:11.783 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-04-02 13:07:11.783 [http-nio-8080-exec-3] CandidatosControlador - null
+[INFO ] 2019-04-02 13:07:21.484 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 13:10:52.346 [http-nio-8080-exec-10] CandidatosControlador - null
+[ERROR] 2019-04-02 13:10:52.350 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-02 13:10:52.365 [http-nio-8080-exec-3] CandidatosControlador - null
+[ERROR] 2019-04-02 13:12:26.170 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-02 13:12:26.173 [http-nio-8080-exec-9] CandidatosControlador - null
+[ERROR] 2019-04-02 13:12:26.176 [http-nio-8080-exec-3] CandidatosControlador - null
+[INFO ] 2019-04-02 13:12:45.344 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-04-02 13:36:09.836 [http-nio-8080-exec-4] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 13:36:28.326 [http-nio-8080-exec-3] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:28.326 [http-nio-8080-exec-10] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:28.327 [http-nio-8080-exec-6] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:28.472 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:28.478 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:40.084 [http-nio-8080-exec-9] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:40.092 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:40.096 [http-nio-8080-exec-10] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:40.120 [http-nio-8080-exec-3] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:40.120 [http-nio-8080-exec-6] CandidatosControlador - null
+[INFO ] 2019-04-02 13:36:43.462 [http-nio-8080-exec-1] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-02 13:36:47.978 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:47.979 [http-nio-8080-exec-10] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:48.004 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:48.014 [http-nio-8080-exec-9] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:54.858 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:54.860 [http-nio-8080-exec-10] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:54.860 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-02 13:36:54.891 [http-nio-8080-exec-1] CandidatosControlador - null
+[INFO ] 2019-04-02 13:36:58.419 [http-nio-8080-exec-4] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-02 13:37:02.984 [http-nio-8080-exec-3] CandidatosControlador - null
+[ERROR] 2019-04-02 13:37:03.017 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-02 13:37:03.018 [http-nio-8080-exec-8] CandidatosControlador - null
+[INFO ] 2019-04-02 13:37:07.987 [http-nio-8080-exec-2] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-02 13:37:11.811 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-02 13:37:11.812 [http-nio-8080-exec-5] CandidatosControlador - null
+[INFO ] 2019-04-02 13:37:15.546 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-02 13:37:19.061 [http-nio-8080-exec-10] CandidatosControlador - null
+[INFO ] 2019-04-02 13:37:21.814 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-02 13:37:43.369 [http-nio-8080-exec-9] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 13:44:04.278 [http-nio-8080-exec-4] CandidatosControlador - null
+[INFO ] 2019-04-02 13:44:20.756 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 13:48:31.210 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-02 13:48:31.215 [http-nio-8080-exec-9] CandidatosControlador - null
+[ERROR] 2019-04-02 13:48:56.850 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-02 13:48:56.853 [http-nio-8080-exec-8] CandidatosControlador - null
+[INFO ] 2019-04-02 14:23:59.682 [http-nio-8080-exec-7] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-02 14:24:33.272 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-04-02 14:24:33.280 [http-nio-8080-exec-6] CandidatosControlador - null
+[ERROR] 2019-04-02 14:24:33.291 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-03 08:19:35.447 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-03 08:19:35.457 [http-nio-8080-exec-3] CandidatosControlador - null
+[ERROR] 2019-04-03 08:19:35.447 [http-nio-8080-exec-6] CandidatosControlador - null
+[INFO ] 2019-04-03 08:19:40.343 [http-nio-8080-exec-8] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-03 08:19:42.500 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-03 08:19:42.504 [http-nio-8080-exec-1] CandidatosControlador - null
+[INFO ] 2019-04-03 08:19:46.088 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-03 08:19:48.044 [http-nio-8080-exec-7] CandidatosControlador - null
+[INFO ] 2019-04-03 08:19:51.089 [http-nio-8080-exec-9] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-03 10:21:13.608 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-03 10:21:18.249 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-03 11:32:48.041 [http-nio-8080-exec-4] CandidatosControlador - null
+[INFO ] 2019-04-03 12:30:19.709 [http-nio-8080-exec-5] CandidatosControlador - Candidato guardado
+[INFO ] 2019-04-03 12:30:50.489 [http-nio-8080-exec-1] CandidatosControlador - Candidato borrado
+[INFO ] 2019-04-03 12:49:18.102 [http-nio-8080-exec-3] CandidatosControlador - Candidato Actualizado
+[INFO ] 2019-04-03 12:49:54.262 [http-nio-8080-exec-7] CandidatosControlador - Candidato Actualizado
+[INFO ] 2019-04-03 12:50:26.569 [http-nio-8080-exec-8] CandidatosControlador - Candidato Actualizado
+[INFO ] 2019-04-03 12:57:13.250 [http-nio-8080-exec-5] CandidatosControlador - Candidato Actualizado
+[INFO ] 2019-04-03 12:57:48.795 [http-nio-8080-exec-6] CandidatosControlador - Candidato Actualizado
+[INFO ] 2019-04-03 13:05:31.341 [http-nio-8080-exec-5] CandidatosControlador - Candidato Actualizado
+[ERROR] 2019-04-03 13:29:35.519 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-03 13:34:50.628 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-03 13:37:56.161 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-03 13:38:28.436 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-03 13:38:42.614 [http-nio-8080-exec-6] CandidatosControlador - null
+[ERROR] 2019-04-03 13:38:57.480 [http-nio-8080-exec-2] CandidatosControlador - null
+[ERROR] 2019-04-03 13:40:37.847 [http-nio-8080-exec-9] CandidatosControlador - null
+[ERROR] 2019-04-03 13:44:57.863 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-03 13:45:48.435 [http-nio-8080-exec-6] CandidatosControlador - null
+[ERROR] 2019-04-03 13:46:04.467 [http-nio-8080-exec-8] CandidatosControlador - null
+[INFO ] 2019-04-03 14:05:10.508 [http-nio-8080-exec-7] CandidatosControlador - Experiencia_Laboral guardada
+[INFO ] 2019-04-03 14:28:24.318 [http-nio-8080-exec-2] CandidatosControlador - Tecnologia actualizada
+[INFO ] 2019-04-03 15:38:31.365 [http-nio-8080-exec-8] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-04-03 15:39:43.932 [http-nio-8080-exec-1] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-03 15:42:52.250 [http-nio-8080-exec-7] CandidatosControlador - null
+[ERROR] 2019-04-03 15:42:52.252 [http-nio-8080-exec-5] CandidatosControlador - null
+[ERROR] 2019-04-03 15:42:59.701 [http-nio-8080-exec-10] CandidatosControlador - null
+[ERROR] 2019-04-03 15:42:59.717 [http-nio-8080-exec-1] CandidatosControlador - null
+[ERROR] 2019-04-03 15:43:07.554 [http-nio-8080-exec-4] CandidatosControlador - null
+[ERROR] 2019-04-03 15:43:07.556 [http-nio-8080-exec-5] CandidatosControlador - null
+[INFO ] 2019-04-03 15:43:11.952 [http-nio-8080-exec-6] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-03 15:43:14.050 [http-nio-8080-exec-9] CandidatosControlador - null
+[INFO ] 2019-04-03 15:43:16.603 [http-nio-8080-exec-1] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-03 15:43:32.613 [http-nio-8080-exec-4] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-03 15:44:41.011 [http-nio-8080-exec-1] CandidatosControlador - null
+[INFO ] 2019-04-03 15:47:14.689 [http-nio-8080-exec-6] CandidatosControlador - Tecnologia actualizada
+[ERROR] 2019-04-03 15:49:17.364 [http-nio-8080-exec-4] CandidatosControlador - null
+[INFO ] 2019-04-03 15:49:20.417 [http-nio-8080-exec-7] CandidatosControlador - Titulo Oficial Borrado
+[INFO ] 2019-04-03 15:49:34.170 [http-nio-8080-exec-10] CandidatosControlador - Titulo Oficial guardado
+[INFO ] 2019-04-03 15:50:26.673 [http-nio-8080-exec-3] CandidatosControlador - Titulo Oficial guardado
+[ERROR] 2019-04-03 15:52:30.548 [http-nio-8080-exec-8] CandidatosControlador - null
+[ERROR] 2019-04-03 15:52:30.552 [http-nio-8080-exec-10] CandidatosControlador - null
+[INFO ] 2019-04-03 15:53:33.063 [http-nio-8080-exec-5] CandidatosControlador - Titulo Oficial Borrado
+[ERROR] 2019-04-03 15:53:35.204 [http-nio-8080-exec-6] CandidatosControlador - null
+[ERROR] 2019-04-03 15:53:40.893 [http-nio-8080-exec-2] CandidatosControlador - null
+[INFO ] 2019-04-03 15:53:43.056 [http-nio-8080-exec-9] CandidatosControlador - Titulo Oficial Borrado

@@ -11,6 +11,7 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
+import org.springframework.http.MediaType;
 import org.springframework.lang.NonNull;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
@@ -31,6 +32,7 @@ public class Titulos_oficiales {
 	
 	@NonNull
 	private Date fecha_obtencion;
+	@JsonIgnore	
 	@Column(length=1622222)
 	private byte[] documento;
 	
@@ -73,7 +75,7 @@ public class Titulos_oficiales {
 	public void setFecha_obtencion(Date fecha_obtencion) {
 		this.fecha_obtencion = fecha_obtencion;
 	}
-	@JsonIgnore
+	
 	public byte[] getDocumento() {
 		return documento;
 	}

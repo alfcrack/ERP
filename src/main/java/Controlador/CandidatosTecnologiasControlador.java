@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -31,6 +32,7 @@ public class CandidatosTecnologiasControlador {
 	@Autowired
 	private TecnologiasRepository tecnologiasrepository;
 	
+	@CrossOrigin
 	@PostMapping(path="/addCT/{candiId}/{tecnoId}",  consumes = "application/json", produces="application/json")
 	public @ResponseBody Candidatos_Tecnologia addNewCanTec(@PathVariable (value = "candiId") Integer candiId,
 			@PathVariable (value = "tecnoId") Integer tecnoId,
@@ -51,15 +53,18 @@ public class CandidatosTecnologiasControlador {
 		return null;
 		
 	}
+	@CrossOrigin
 	@GetMapping(path="read")
 	public @ResponseBody Iterable<Candidatos_Tecnologia> read() {
 		return candidatos_TecnologiaRepository.findAll();
 	}
+	@CrossOrigin
 	@GetMapping(path="read/{id}")
 	public @ResponseBody Candidatos_Tecnologia readId(@PathVariable(name="id")Integer id) {
 		return candidatos_TecnologiaRepository.findById(id).get();
 	}
 	
+	@CrossOrigin
 	@DeleteMapping(path="/supr/{Id}")
 	public @ResponseBody String suprId(@PathVariable(name="Id")Integer id) {
 		try {

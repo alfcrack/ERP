@@ -2,6 +2,7 @@ package Clases;
 
 
 import java.sql.Date;
+import java.util.List;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -11,6 +12,8 @@ import javax.persistence.Id;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Size;
 
+import org.hibernate.annotations.Cascade;
+import org.hibernate.annotations.CascadeType;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.lang.NonNull;
 
@@ -64,6 +67,7 @@ public class Candidatos {
 	
 	@DateTimeFormat(pattern="dd/mm/yyyy")
 	private Date Fecha_baja;
+	
 
 	public Integer getId() {
 		return Id;
